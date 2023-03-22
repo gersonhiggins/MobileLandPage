@@ -1,6 +1,7 @@
 <a name="readme-top"></a>
 
-Read Me
+This is a mobile land page with my corriculum, easy to acess and responsive. 
+You can check it out from pc or mobile.
 
 # 📗 Table of Contents
 
